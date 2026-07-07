@@ -15,9 +15,13 @@ A conversational AI assistant built with **Streamlit** and **Groq’s Llama 3.3 
 - Llama 3.3
 
 ## Live Demo
-👉 **[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-chatbot-y2f5v9pzkgtvpvtxyq5jdz.streamlit.app/)**
+👉 **[Try the app here](https://ai-chatbot-y2f5v9pzkgtvpvtxyq5jdz.streamlit.app/)**
 
 ## How to Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## Author
+Built by **[Abdullah Hussein](https://github.com/1akinci)**
